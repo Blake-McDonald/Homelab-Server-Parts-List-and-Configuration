@@ -1,6 +1,8 @@
 <h1> Homelab Server Parts List & Configuration </h1>
 
 
+<details>
+<summary><strong> Parts List </strong></summary>
 Dell PowerEdge R630 Server 2x E5-2680 V4 - 28 Cores 
 <img src="https://i.imgur.com/VI1YcII.png">
 
@@ -59,3 +61,6 @@ USB to UART Debugger Module for Raspberry Pi 5
 
 Raspberry Pi AI Kit
 <img src="https://i.imgur.com/Wj7xelf.png">
+
+
+</details>
